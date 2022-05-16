@@ -16,6 +16,6 @@
 <li>Construir páginas que alteram o seu layout de acordo com a orientação da tela;</li>
 </ol>
 
-<p>Link para conferência: https://JuliaSFarias.github.io/trybewarts/</p>
+<p>Link para conferência: https://JuliaSFarias.github.io/trybewarts-projeto5/</p>
 
 <p><a href="https://www.linkedin.com/in/julia-farias1995/" targe="_blank" rel="nofollow">Meu Linkedin</a>.</p>
