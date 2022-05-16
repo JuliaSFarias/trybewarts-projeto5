@@ -18,4 +18,4 @@
 
 <p>Link para conferência: https://JuliaSFarias.github.io/trybewarts/</p>
 
-<p><a href="https://www.linkedin.com/in/helderme/" targe="_blank" rel="nofollow">Meu Linkedin</a>.</p>
+<p><a href="https://www.linkedin.com/in/julia-farias1995/" targe="_blank" rel="nofollow">Meu Linkedin</a>.</p>
